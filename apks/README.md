@@ -1,0 +1,1 @@
+This is the directory which have the stable and beta releases for pwnCore
